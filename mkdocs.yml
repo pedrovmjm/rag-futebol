@@ -1,0 +1,8 @@
+site_name: Futebol
+repo_url: https://github.com/pedrovmjm/rag-futebol
+repo_name: pedrovmjm/rag-futebol
+edit_uri: tree/master/docs
+
+theme:
+  name: material
+  language: pt-BR
